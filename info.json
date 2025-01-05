@@ -5,5 +5,5 @@
 	"author": "Chadster",
 	"factorio_version": "2.0",
 	"dependencies": ["base >= 2.0"],
-	"description": "This mod adds to or replaces some in-game sounds and music with those from StarCraft.\n\nPlease don't sue me, Blizzard."
+	"description": "After a wacky waltz with a wandering wormhole, Nauvis was somehow transported to the Koprulu Sector!\n\nThis is a Factorio mod that replaces some in-game sounds and music with those from StarCraft.\n\nThis is a work in progress. What started as an interest in having StarCraft music play in-game has quickly turned into much more. I am thinking about adding more StarCraft functionality to Factorio (e.g. resources, units, buildings, etc.), but that is a pretty ambitious goal.\n\nPlease don't sue me, Blizzard."
 }

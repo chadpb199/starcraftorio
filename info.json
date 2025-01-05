@@ -1,0 +1,9 @@
+{
+	"name": "starcraftorio",
+	"version": "0.1.0",
+	"title": "StarCraftorio",
+	"author": "Chadster",
+	"factorio_version": "2.0",
+	"dependencies": ["base >= 2.0"],
+	"description": "This mod adds to or replaces some in-game sounds and music with those from StarCraft.\n\nPlease don't sue me, Blizzard."
+}

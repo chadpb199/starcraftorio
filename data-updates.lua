@@ -1,0 +1,1 @@
+-- Change submachine gun firing sound to Terran Marine firing sound.

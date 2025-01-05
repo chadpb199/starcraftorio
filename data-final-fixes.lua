@@ -1,0 +1,20 @@
+if settings.startup["starcraftorio-replace"].value then
+	data.raw["ambient-sound"]["after-the-crash"] = nil
+	data.raw["ambient-sound"]["automation"] = nil
+	data.raw["ambient-sound"]["resource-deficiency"] = nil
+	data.raw["ambient-sound"]["are-we-alone"] = nil
+	data.raw["ambient-sound"]["beyond-factory-outskirts"] = nil
+	data.raw["ambient-sound"]["censeqs-discrepancy"] = nil
+	data.raw["ambient-sound"]["efficiency-program"] = nil
+	data.raw["ambient-sound"]["expansion"] = nil
+	data.raw["ambient-sound"]["the-search-for-iron"] = nil
+	data.raw["ambient-sound"]["gathering-horizon"] = nil
+	data.raw["ambient-sound"]["research-and-minerals"] = nil
+	data.raw["ambient-sound"]["solar-intervention"] = nil
+	data.raw["ambient-sound"]["the-oil-industry"] = nil
+	data.raw["ambient-sound"]["the-right-tools"] = nil
+	data.raw["ambient-sound"]["pollution"] = nil
+	data.raw["ambient-sound"]["turbine-dynamics"] = nil
+	data.raw["ambient-sound"]["sentient"] = nil
+	data.raw["ambient-sound"]["main-menu"] = nil
+end

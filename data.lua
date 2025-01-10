@@ -150,7 +150,9 @@ local zerg_music = {
 
 -- Choose which music to use, or all music.
 if settings.startup["starcraftorio-all-species"].value then
-	data:extend(terran_music, protoss_music, zerg_music)
+	data:extend(terran_music)
+	data:extend(protoss_music)
+	data:extend(zerg_music)
 elseif settings.startup["starcraftorio-pick-species"].value == "terran" then
 	data:extend(terran_music)
 elseif settings.startup["starcraftorio-pick-species"].value == "protoss" then
